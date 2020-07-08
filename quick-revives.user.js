@@ -5,6 +5,7 @@
 // @description  Skips confirmation prompt for reviving
 // @author       Pyrit[2111649]
 // @match        https://www.torn.com/profiles.php*
+// @updateURL    https://raw.githubusercontent.com/TotallyNot/quick-revives/master/quick-revives.user.js
 // @grant        none
 // ==/UserScript==
 
